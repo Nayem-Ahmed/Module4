@@ -6,7 +6,7 @@ main footer{
     max-width: 1100px;
 }
 .header-section{
-   background-image: url(new-year-new-me/images/banner/banner2.png);
+   background-image: url(images/banner/banner2.png);
    padding: 160px;
    background-size: cover;
    background-repeat: no-repeat;
@@ -81,7 +81,7 @@ main footer{
 }
 .service-bottom-section{
     padding: 50px 0;
-    background: linear-gradient(#c62c2c9e,#e99f0a59),url(new-year-new-me/images/watch.png);
+    background: linear-gradient(#c62c2c9e,#e99f0a59),url(images/watch.png);
     max-width: 900px;
     margin: auto;
    
