@@ -1,0 +1,163 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+main footer{
+    max-width: 1100px;
+}
+.header-section{
+   background-image: url(new-year-new-me/images/banner/banner2.png);
+   padding: 160px;
+   background-size: cover;
+   background-repeat: no-repeat;
+   
+}
+.header-right-text{
+  margin-left: 550px;
+  text-align: right;
+    
+}
+.header-right-text h2{
+    margin-bottom: 20px;
+}
+.header-right-text p{
+    color: #444343;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.header-right-text button{
+    background-color: tomato;
+    border: none;
+    padding: 10px 15px;
+    color: #fff;
+}
+.banner-section{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px 0;
+ 
+}
+.banner-section-left{
+  
+}
+.banner-section-left img{
+    width: 250px;
+  
+}
+.banner-section-right{
+    max-width: 400px;
+    
+ 
+}
+.banner-section-right h2{
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+.banner-section-right p{
+    color: #D9D9D9;
+    margin-bottom: 10px;
+}
+.banner-section-right ul{
+    list-style: none;
+}
+.banner-section-right ul li{
+    margin-top: 10px;
+    color: #444343;
+}
+.service-section{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 40px 0;
+}
+.service-heading{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+.service-items img{
+    width: 60px;
+    margin-bottom: 15px;
+}
+.service-bottom-section{
+    padding: 50px 0;
+    background: linear-gradient(#c62c2c9e,#e99f0a59),url(new-year-new-me/images/watch.png);
+    max-width: 900px;
+    margin: auto;
+   
+     
+}
+.bg-inner{
+   margin-left: 100px;
+   
+
+}
+.bg-inner h2{
+    color: #fff;
+    margin-bottom: 10px;
+}
+.bg-inner button{
+    padding: 8px 20px;
+    color: red;
+    font-weight: 600;
+}
+footer{
+ 
+    color: #fff;
+    background-color: black;
+    margin-top: 100px;
+    margin-bottom: 0;
+    padding: 80px 0;
+
+    
+}
+.footer-content-items{
+    max-width: 950px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+   
+}
+.footer-left{
+  
+}
+.footer-left h2{
+    margin-bottom: 10px;
+}
+.footer-left p{
+    color: #ddd;
+    margin-bottom: 10px;
+}
+.footer-left strong{
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+.footer-left span{
+    margin-bottom: 15px;
+    display: inline-block;
+}
+
+.footer-left ul{
+
+}
+.footer-left ul li{
+    display: inline-block;
+    font-size: 5px;
+    margin-right: 10px;
+}
+.footer-left ul li img{
+    width: 30px;
+}
+.footer-right input{
+    padding: 10px 20px;
+    margin: 10px 0;
+}
+.footer-right input[type=submit]{
+   color: red;
+}
+.footer-right input[type=email]{
+    color: white;
+    background-color: black;
+    border:1px solid #ddd;
+ }
